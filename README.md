@@ -7,6 +7,8 @@ POSCO AI BIGDATA Acadmey 25th A4group AI Project
 
 [View Presentation](A4_AIproject_presentation.pdf)
 
+
+[View Presentation](https://github.com/k-mover/A4_poskick/blob/main/A4_AIproject_presentation.pdf)
  
 ## Project Introduction
 전동 킥보드 사고방지 모니터링 시스템 포스킥을 개발하였습니다. 
