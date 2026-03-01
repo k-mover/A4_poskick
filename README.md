@@ -1,27 +1,24 @@
 # A4_poskick
 POSCO AI BIGDATA Acadmey 25th A4group AI Project
 
-## 프로젝트 소개
+## Project Introduction
 전동 킥보드 사고방지 모니터링 시스템 포스킥을 개발하였습니다. 
 
-## 팀원 소개
-- 김태영 : 조장 
-- 김민승 : 
-- 김락현 :
-- 윤서영 : 
-- 박주형 : 
-- 이유진 : 
+## Team Introduction
+- Tayoung KIM : Leader, drive project initative, design system architecture, select main research and skills, two riders detection
+- 김민승 : two riders detection, android app develop
+- 김락현 : rider helmet detection
+- 윤서영 : rider helmet detection
+- 박주형 : illegal parking spot detection 
+- 이유진 : illegal parking spot detection 
 
-## 개발 환경 
-
-
-## 기술 스택 
+## Tech Stech
 
 
-## 프로젝트 구조도 
+## Project Diagram 
 
 
-## 주요 기능 
-1. 전동킥보드 탑승자 헬멧 인식
-2. 전동킥보드 2인 이상 탑승 감지 
-3. 전동킥보드 견인구역 주차 감지 
+## Main Feature
+1. e-scooters rider helmet detection 
+2. e-scooters two riders detection 
+3. e-scooters illegal parking spot detectoin 
