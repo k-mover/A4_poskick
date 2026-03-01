@@ -1,5 +1,5 @@
 # A4_poskick
-포스코 AI BIGDATA 아카데미 25기 A4조 AI 프로젝트
+POSCO AI BIGDATA Acadmey 25th A4group AI Project
 
 ## 프로젝트 소개
 전동 킥보드 사고방지 모니터링 시스템 포스킥을 개발하였습니다. 
