@@ -3,7 +3,7 @@ POSCO AI BIGDATA Acadmey 25th A4group AI Project
 
 
 ## Presentation
-[[Project Presentation (PDF)](https://github.com/kmover/A4_poskick/blob/docs/A4_poskick_presentation.pdf)](https://github.com/k-mover/A4_poskick/blob/docs/A4_AIproject_presentation.pdf)
+[View Presentation](A4_AIproject_presentation.pdf)
 
  
 ## Project Introduction
