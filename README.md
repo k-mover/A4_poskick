@@ -5,12 +5,12 @@ POSCO AI BIGDATA Acadmey 25th A4group AI Project
 전동 킥보드 사고방지 모니터링 시스템 포스킥을 개발하였습니다. 
 
 ## Team Introduction
-- Tayoung KIM : Leader, drive project initative, design system architecture, select main research and skills, two riders detection
-- 김민승 : two riders detection, android app develop
-- 김락현 : rider helmet detection
-- 윤서영 : rider helmet detection
-- 박주형 : illegal parking spot detection 
-- 이유진 : illegal parking spot detection 
+- Tayoung Kim : Leader, drive project initative, design system architecture, select main research and skills, two riders detection
+- MS Kim : two riders detection, android app develop
+- RH Kim : rider helmet detection
+- SY Yun : rider helmet detection
+- JH Park : illegal parking spot detection 
+- YJ Lee : illegal parking spot detection 
 
 ## Tech Stech
 
